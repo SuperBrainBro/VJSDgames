@@ -1,6 +1,6 @@
+By Vincent Jenei and Spencer Desenes
 
----
-title: New Post
-slug: "new-post"
----
-By Vincent Jenei and Spencer Desena
+# Games:
+- [Site: CoolMath](http://coolmathgames.com "CoolMath") 
+-  We are adding items to this list.
+
