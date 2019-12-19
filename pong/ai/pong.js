@@ -6,10 +6,10 @@
 var DIFFICULTY = 0.1; // from 0 to 1, 1 being hardest
 
 var WIDTH = 1800;
-var HEIGHT = 950;
+var HEIGHT = 800;
 var PADDLEWIDTH = 100;
-var LEFTARROW = 40;
-var RIGHTARROW = 40;
+var LEFTARROW = 38;
+var RIGHTARROW = 39;
 var OFFWHITE = "#000000";
 var BLUE = "#ffffff";
 
