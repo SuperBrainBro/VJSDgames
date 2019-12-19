@@ -3,15 +3,15 @@
 /**
  * Settings
  */
-var DIFFICULTY = 0.1; // from 0 to 1, 1 being hardest
+var DIFFICULTY = 0.05; // from 0 to 1, 1 being hardest
 
-var WIDTH = 200;
-var HEIGHT = 300;
-var PADDLEWIDTH = 50;
-var LEFTARROW = 37;
-var RIGHTARROW = 39;
-var OFFWHITE = "#f9fafc";
-var BLUE = "#3b79b4";
+var WIDTH = 1650;
+var HEIGHT = 1050;
+var PADDLEWIDTH = 100;
+var LEFTARROW = 40;
+var RIGHTARROW = 40;
+var OFFWHITE = "#000000";
+var BLUE = "#ffffff";
 
 /**
  * Draws a rounded rectangle using the current state of the canvas. 
