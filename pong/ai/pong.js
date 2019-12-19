@@ -3,10 +3,10 @@
 /**
  * Settings
  */
-var DIFFICULTY = 0.05; // from 0 to 1, 1 being hardest
+var DIFFICULTY = 0.1; // from 0 to 1, 1 being hardest
 
-var WIDTH = 1650;
-var HEIGHT = 1050;
+var WIDTH = 1800;
+var HEIGHT = 950;
 var PADDLEWIDTH = 100;
 var LEFTARROW = 40;
 var RIGHTARROW = 40;
