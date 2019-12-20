@@ -1,1 +1,25 @@
 
+body {
+      background-color: #2F4F4F;;
+    }
+    h1 {
+     font-family: courier new;
+     text-align: center;
+     color:#48D1CC;
+    }
+      h2 {
+     font-family: courier new;
+     text-align: center;
+     color:#48D1CC;
+      }
+    p {
+     font-family: courier new;
+     font-size: 8px;
+     color:#778899
+    }
+      #titlecontent {
+    width: 100%; height: 2px;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+}
