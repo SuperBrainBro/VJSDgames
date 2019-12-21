@@ -17,15 +17,18 @@ body {
      font-size: 8px;
      color:#778899
     }
-      #titlecontent {
+    #titlecontent {
     outline-style: solid;
     outline-color: white;
     outline-width: 10px;
     background-color: white;
     }
-     #game-link {
+    #game-link {
     border-width: 8px;
     border-style: solid;
     border-top-color: #cc00ff;
     border-bottom-color: #cc0099;
-}
+    }
+    a {
+    color:#48D1CC;     
+    }
