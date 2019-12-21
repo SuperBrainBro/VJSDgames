@@ -31,10 +31,10 @@
     border-left-color: #006699;
     border-right-color: #006699;
     }
-    #game-link
-    width:50%;
+    #game-link {
+    width:25%;
     }
-    #game-description
+    #game-description {
     width:50%;
     }
     #footercontent {
