@@ -1,5 +1,5 @@
 
-body {
+    body {
       background-color: #2F4F4F;;
     }
     h1 {
@@ -28,6 +28,11 @@ body {
     border-style: solid;
     border-top-color: #cc00ff;
     border-bottom-color: #cc0099;
+    }
+    #footercontent {
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
     }
     a {
     text-decoration: none;
