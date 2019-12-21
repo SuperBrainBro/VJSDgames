@@ -1,6 +1,6 @@
 
     body {
-         background-color: #2F4F4F;;
+         background-color: #003366;
     }
     h1 {
         font-family: courier new;
@@ -31,6 +31,16 @@
         border-bottom-color: #005580;
         border-left-color: #006699;
         border-right-color: #006699;
+        background-color: #003366;
+    }
+    .game-item:hover {
+        border-width: 8px;
+        border-style: solid;
+        border-top-color: #0077b3;
+        border-bottom-color: #005580;
+        border-left-color: #006699;
+        border-right-color: #006699;
+        background-color: #669999;
     }
     #game-link {
         width:25%;
