@@ -23,11 +23,11 @@
     border-width: 10px;
     background-color: white;
     }
-    #game-link {
+    .test {
     border-width: 8px;
     border-style: solid;
-    border-top-color: #cc00ff;
-    border-bottom-color: #cc0099;
+    border-top-color: #006699;
+    border-bottom-color: #006699;
     }
     #footercontent {
     border-style: solid;
