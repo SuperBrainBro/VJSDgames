@@ -15,7 +15,7 @@
     p {
      font-family: courier new;
      font-size: 12px;
-     color:#778899
+     color:#48D1CC
     }
     #titlecontent {
     border-style: solid;
@@ -33,6 +33,7 @@
     border-style: solid;
     border-color: white;
     border-width: 5px;
+    background-color: white;
     }
     a {
     text-decoration: none;
