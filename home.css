@@ -26,8 +26,14 @@
     .test {
     border-width: 8px;
     border-style: solid;
-    border-top-color: #006699;
+    border-top-color: #0077b3;
     border-bottom-color: #006699;
+    }
+    #game-link
+    width:50%;
+    }
+    #game-description
+    width:50%;
     }
     #footercontent {
     border-style: solid;
