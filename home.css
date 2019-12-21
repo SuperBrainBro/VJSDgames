@@ -22,4 +22,10 @@ body {
     border-style: solid;
     border-color: white;
     background-color: white;
+    }
+    .game-list {
+    border-width: 8px;
+    border-style: solid;
+    border-top-color: blue;
+    border-bottom-color: red;
 }
