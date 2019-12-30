@@ -26,6 +26,8 @@
         border-width: 10px;
         border-radius: 5px;
         background-color: white;
+        background-attachment: fixed;
+}
     }
     .game-item {
         border-width: 8px;
