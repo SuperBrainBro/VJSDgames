@@ -1,1 +1,1 @@
-*Red Runner, game we copped from Bayat Games
+Red Runner, game we copped from Bayat Games
