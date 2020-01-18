@@ -1,0 +1,16 @@
+{
+"companyName": "RevoLite",
+"productName": "HitchBug",
+"productVersion": "0.1",
+"dataUrl": "Version 0.2.data.unityweb",
+"wasmCodeUrl": "Version 0.2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Version 0.2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
